@@ -1,0 +1,25 @@
+{
+  "name": "20210908",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hdl": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedongliang-bit/20210908.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedongliang-bit/20210908/issues"
+  },
+  "homepage": "https://github.com/hedongliang-bit/20210908#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0",
+    "less": "^4.1.1"
+  }
+}
